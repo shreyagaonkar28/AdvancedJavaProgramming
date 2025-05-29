@@ -24,7 +24,8 @@ ________________________________________________________________________________
 2b.StringPerformanceTest : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/2b.StringPerformanceTest/2b.StringPerformanceTest.png                                                                ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 # 3a.StringOperation
 3a.StringOperation :  https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/3a.StringOperation/3a.Stringoperation.png
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________# 3b.StringExercise
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+# 3b.StringExercise
 3b.1.nullorempty : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/3b.StringExercise/3b.1.nullorempty.png                                                                                    
 3b.2.countoccurances : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/3b.StringExercise/3b.2.countoccurances.png                                                                               
 3b.3.reversestring : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/3b.StringExercise/3b.3.reversestring.png                                                                                
@@ -37,7 +38,8 @@ ________________________________________________________________________________
 3c.7.truncate : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/3c.StringExercise/3c.7.truncate.png                                                                                            
 3c.8.isnumeric : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/3c.StringExercise/3c.8.isnumeric.png                                                                                        
 3c.9.genaraterandomstring : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/3c.StringExercise/3c.9.generaterandomstring.png                                                                
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________# 4a.StringOperationDemo
+__________________________________________________________________________________________________________________________________________________________________________________________________________________  
+# 4a.StringOperationDemo
 4a.SwingOperationDemo : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/4a.SwingOperationDemo/4a.swingdisplay.png
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 # 4b.CountrybuttonDemo
@@ -45,7 +47,8 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 # 4c.SwingProgram
 4c.SwingProgram : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/4c.SwingProgram/4c.displayamessage.png                                                                                
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________# 5a.CountryListDemo
+____________________________________________________________________________________________________________________________________________________________________________________________________________________ 
+# 5a.CountryListDemo
 5a.CountryListDemo : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/5a.CountryListDemo/5a.countrylist.png                                                                                      
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 # 5b.ColorTabbledPanel
@@ -56,7 +59,8 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 # 5d.ColorTabbledPanel
 5d.ColorTabbledPanel : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/5d.ColorTabbledPanel/5d.tabbledpamel2.png                                                                           
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________# 6a.FactorialServlet
+____________________________________________________________________________________________________________________________________________________________________________________________________________________ 
+# 6a.FactorialServlet
 6a.factorialServlet : https://github.com/shreyagaonkar28/AdvancedJavaProgramming/blob/main/6a.FactorialServlet/6a.factorialServlet.png                                                                              
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 # 6b.CookieServletDemo
